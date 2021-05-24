@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Franco and I currently studyng Computer Science
+I'm Franco, I'm from Buenos Aires, Argentina and I'm currently studyng Computer Science
 <!--
 **francoliza/francoliza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning about machine leargning and data science in python!
+- 🌱 I’m currently learning about machine learning and data science in python! Also I have interest in Rust lang
 - 📫 How to reach me: franco.s.liza@gmail.com
