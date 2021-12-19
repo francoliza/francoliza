@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Java and Rust lang
+- 🌱 I’m currently learning Python and Rust lang
 - 📫 How to reach me: franco.s.liza@gmail.com
